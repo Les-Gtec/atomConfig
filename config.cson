@@ -1,0 +1,17 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  editor:
+    showInvisibles: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "d3ad62d4-a954-d548-8385-1bd3cad986e5"
+  "platformio-ide":
+    showHomeScreen: false
+  "platformio-ide-terminal":
+    core:
+      autoRunCommand: "export PATH=/Users/lesmahon/.atom/packages/platformio-ide/penv/bin:/Users/lesmahon/shProject:/Users/lesmahon/shProject/ORC/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin\r"
+  "tool-bar":
+    position: "Left"
+  welcome:
+    showOnStartup: false
